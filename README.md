@@ -29,7 +29,7 @@ Now sit back and watch my AI play the game!
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)
 * [**Unnikrishnan Menon**](https://github.com/7enTropy7) 
 
-[![ForTheBadge built-by-7enTropy7](http://ForTheBadge.com/images/badges/built-by-7enTropy7.svg)](https://GitHub.com/7enTropy7/)
+[![ForTheBadge built-by-7enTropy7](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/7enTropy7/)
 
 
 ## License
