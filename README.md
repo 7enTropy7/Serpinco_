@@ -1,4 +1,4 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0) [![GitHub followers](https://img.shields.io/github/followers/7enTropy7?label=Follow&style=social)](https://github.com/7enTropy7?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/7enTropy7/Serpinco_.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/7enTropy7/Serpinco_/stargazers/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-orange.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0) [![GitHub followers](https://img.shields.io/github/followers/7enTropy7?label=Follow&style=social)](https://github.com/7enTropy7?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/7enTropy7/Serpinco_.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/7enTropy7/Serpinco_/stargazers/)
 
 # Serpinco_
 
@@ -26,8 +26,8 @@ Now sit back and watch my AI play the game!
 ![snake_AI](https://user-images.githubusercontent.com/36446402/59549759-f5dc8800-8f7f-11e9-9059-f768c94295d0.gif)
 
 ## Author
-
-* [**Unnikrishnan Menon**](https://github.com/7enTropy7)
+[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)
+* [**Unnikrishnan Menon**](https://github.com/7enTropy7) 
 
 ## License
 
