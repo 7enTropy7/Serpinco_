@@ -1,0 +1,4 @@
+pandas==0.23.3+dfsg
+pygame==1.9.6
+numpy==1.16.2
+Keras==2.2.4
