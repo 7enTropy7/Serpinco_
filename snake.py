@@ -3,10 +3,24 @@ import pygame
 import random
 from ai import entropy
 from keras.utils import to_categorical
+import argparse
 
+def str2bool(v):
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--speed", help="Set the speed of Serpinco",type=int)
+parser.add_argument("--render", type=str2bool, nargs='?',const=True,help="Render or not")
+args = parser.parse_args()
+
+render = args.render
+speed=100-args.speed
 black=(0,0,0)
-speed=30
-render=True
 
 class Snake_env():
     def __init__(self,width,height):
