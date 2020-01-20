@@ -4,12 +4,28 @@
 
 # Serpinco_
 
-A **Deep Q Learning** Algorithm based A.I agent that plays the old classic Nokia Snakes Game.
-The game was developed using **Pygame** and the DQN algorithm was coded using **Keras**.
+Code for a **Deep Reinforcement Learning** based A.I agent that plays the classic Nokia Snakes Game.
+The game was developed using **Pygame** and the DQN algorithm was implemented using **Keras**. 
 
 ## Cloning
 ```bash
 $ git clone https://github.com/7enTropy7/Serpinco_.git
+```
+## Directory Contents
+```bash
+$ cd Serpinco_/
+$ tree
+.
+├── ai.py
+├── elements
+│   ├── apple.png
+│   └── square.png
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── snake.py
+
+1 directory, 7 files
 ```
 
 ## Dependencies
