@@ -38,8 +38,9 @@ $ pip3 install -r requirements.txt
 $ python3 snake.py --speed 70 --render True
 ```
 
-> **Note :** You can adjust the speed from 0  (slowest) to 100 (fastest).
-
+> **Note :** 
+> - You can adjust the **Speed** from 0  (slowest) to 100 (fastest).
+> - **Render** can be set to either ***True*** or ***False***
 ### Now sit back and watch my AI play the game!
 ## Output 
 ### After one hour of training...
