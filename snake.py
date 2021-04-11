@@ -149,7 +149,7 @@ def train_snake():
     epoch=0
     highest_record=0
     while epoch<1000:
-        env=Snake_env(440,440)
+        env=Snake_env(700,350) #440,440
         serpico=env.snake
         food=env.apple
 

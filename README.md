@@ -43,9 +43,11 @@ $ python3 snake.py --speed 70 --render True
 > - **Render** can be set to either ***True*** or ***False***
 ### Now sit back and watch my AI play the game!
 ## Output 
-### After one hour of training...
 
-![snake_AI](https://user-images.githubusercontent.com/36446402/59549759-f5dc8800-8f7f-11e9-9059-f768c94295d0.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/36446402/114292523-acdab980-9aac-11eb-8ace-460597fe114b.gif)
+
+
+<!-- ![snake_AI](https://user-images.githubusercontent.com/36446402/59549759-f5dc8800-8f7f-11e9-9059-f768c94295d0.gif) -->
 
 ## Author
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/)
