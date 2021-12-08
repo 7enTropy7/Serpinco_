@@ -9,9 +9,10 @@ except:
   # Invalid device or cannot modify virtual devices once initialized.
   pass
 
+import keras
 from operator import add
-from keras.optimizers import Adam
-from keras.models import Sequential
+from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.models import Sequential
 from keras.layers.core import Dropout,Dense
 
 class entropy(object):
