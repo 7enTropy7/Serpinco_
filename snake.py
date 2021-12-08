@@ -2,7 +2,8 @@ import numpy as np
 import pygame
 import random
 from ai import entropy
-from keras.utils import to_categorical
+import keras
+from tensorflow.keras.utils import to_categorical
 import argparse
 
 def str2bool(v):
@@ -149,7 +150,7 @@ def train_snake():
     epoch=0
     highest_record=0
     while epoch<1000:
-        env=Snake_env(700,350) #440,440
+        env=Snake_env(1430,750) #440,440
         serpico=env.snake
         food=env.apple
 
